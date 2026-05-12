@@ -1,9 +1,0 @@
-{
-    "pull_request": {
-        "number": 7549,
-        "base": {
-            "ref": "master"
-        },
-        "merged": true
-    }
-}
